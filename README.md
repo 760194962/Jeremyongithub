@@ -5,3 +5,4 @@
 # List of place
 
 - Mac
+- Windows
