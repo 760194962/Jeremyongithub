@@ -19,3 +19,4 @@
 - Dark Soul
 - Serious Sam
 - Animal Crossing: New Leaf
+- New Super Mario Bros
